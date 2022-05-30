@@ -1,1 +1,1 @@
-# MAD_PROJECT_TICTACTOE
+# MAD_Project_TicTacToe
